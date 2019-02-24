@@ -1,5 +1,5 @@
 # DACS
-FROM ubuntu
+FROM ubuntu:latest
 
 MAINTAINER Ibrahima DIAGO <el-hadji-ibrahima.diago@idemia.com>
 
